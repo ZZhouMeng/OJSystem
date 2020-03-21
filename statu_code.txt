@@ -1,0 +1,13 @@
+result_code = {
+        "Waiting": 0,
+        "Accepted": 1,
+        "Time Limit Exceeded": 2,
+        "Memory Limit Exceeded": 3,
+        "Wrong Answer": 4,
+        "Runtime Error": 5,
+        "Output limit": 6,
+        "Compile Error": 7,
+        "Presentation Error": 8,
+        "System Error": 11,
+        "Judging": 12,
+    }
